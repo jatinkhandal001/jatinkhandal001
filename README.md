@@ -1,125 +1,96 @@
-<h1 align="center">Hi 👋, I'm Jatin Khandal</h1>
-<h3 align="center">B.Tech AI & Data Science | Machine Learning & Computer Vision Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Jatin+Khandal;AI+%26+Data+Science+Engineer+in+Progress;Machine+Learning+%7C+Computer+Vision;Turning+Data+into+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-informational?style=flat&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer-Vision-blueviolet">
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20GCP-blue">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success">
+</p>
 
 ---
 
-📍 Jaipur, India  
-🎓 **Bachelor of Technology – Artificial Intelligence & Data Science**  
-Poornima University, Jaipur (Aug 2023 – Jul 2027)
+## 👋 About Me
 
-📧 2023btechaidsjatin15411@poornima.edu.in | khandaljatin2187@gmail.com  
-🌐 Portfolio: https://jatinkhandal.netlify.app/
+I’m a **B.Tech AI & Data Science undergraduate** who loves building **real-world AI systems** — not just models.
 
----
-
-## 👨‍💻 About Me
-
-I am an **AI & Data Science undergraduate** with **hands-on internship experience** in building and deploying **Machine Learning and Computer Vision solutions**.  
-I have a strong foundation in **ML algorithms, data preprocessing, feature engineering, and REST API–based AI systems**, along with experience deploying AI workloads on **Microsoft Azure and Google Cloud Platform**.
-
-I am actively looking for **AI/ML internships or entry-level roles** to build **scalable, production-ready AI systems**.
+- 🧠 AI/ML Intern at **LinuxWorld Informatics Pvt. Ltd.**
+- 📊 Worked on datasets with **10,000+ records**
+- 📈 Improved ML model **F1-score from 0.82 → 0.91**
+- 👁 Built **real-time Computer Vision applications**
+- ☁ Deployed AI solutions on **Azure & Google Cloud**
+- 🚀 Passionate about turning ideas into **production-ready AI**
 
 ---
 
-## 🧠 Skills
+## 🛠 Tech Arsenal
 
-### 💻 Programming Languages
-- Python (Fluent)
-- SQL
-- R
+**Languages**  
+`Python` `SQL` `R`
 
-### 🧮 Data Structures & Algorithms
-- Arrays, Strings, Hashing  
-- Sorting & Searching
+**Machine Learning**  
+`Scikit-learn` `Feature Engineering` `Model Evaluation`  
+`Classification` `Regression` `Clustering`
 
-### 🤖 Machine Learning
-- Classification, Regression, Clustering  
-- Feature Engineering  
-- Hyperparameter Tuning  
-- Model Evaluation
+**Computer Vision**  
+`OpenCV` `CvZone` `Face Recognition` `Object Detection`
 
-### 🧠 Deep Learning
-- Artificial Neural Networks (ANN)  
-- Convolutional Neural Networks (CNN) *(Foundational)*
+**Data & Analytics**  
+`Pandas` `NumPy` `EDA` `Statistical Analysis` `Power BI`
 
-### 👁 Computer Vision
-- OpenCV
-- CvZone
-- Face Detection & Recognition
-- Object Detection
-- Real-Time Video Processing
+**Frameworks & Tools**  
+`Flask` `Streamlit` `Gradio` `REST APIs`
 
-### 📊 Data Analytics
-- Pandas
-- NumPy
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-
-### ☁ Cloud & Tools
-- Microsoft Azure
-- Google Cloud Platform
-- Git & GitHub
-- REST APIs
-- Postman
-- Linux
-- Streamlit
-- Gradio
-- Power BI
+**Cloud & DevOps**  
+`Microsoft Azure` `Google Cloud` `Git` `GitHub` `Linux`
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Machine Learning / AI Intern  
-**LinuxWorld Informatics Pvt. Ltd., Jaipur**  
+### Machine Learning / AI Intern  
+**LinuxWorld Informatics Pvt. Ltd.** | Jaipur  
 *May 2025 – Aug 2025*
 
-- Built and optimized ML models using **Python and Scikit-learn** on datasets with **10,000+ records**
-- Improved **Random Forest classifier F1-score from 0.82 to 0.91** through hyperparameter tuning and feature selection
-- Designed **end-to-end ML pipelines** including preprocessing, feature engineering, training, and evaluation
-- Developed **computer vision solutions** using OpenCV for real-time face detection and recognition
-- Integrated ML and CV models into backend services using **RESTful APIs**
+- Built and optimized ML models on large datasets
+- Boosted Random Forest **F1-score to 0.91**
+- Designed **end-to-end ML pipelines**
+- Developed CV systems using **OpenCV**
+- Integrated models with **REST APIs**
 
----
-
-### 🔹 AI Azure Virtual Intern (Virtual)  
+### AI Azure Virtual Intern  
 **Microsoft & Edunet Foundation (AICTE)**  
 *May 2025 – Jun 2025*
 
-- Deployed AI and data analytics workloads on **Microsoft Azure**
-- Implemented intelligent vision workflows using **Azure Cognitive Services**
+- Deployed AI workloads on **Microsoft Azure**
+- Implemented **Azure Cognitive Services** workflows
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔸 Startup Hub – AI-Powered Startup Intelligence Platform (2024)
-- Applied data preprocessing and EDA on startup datasets
-- Built predictive ML models for startup validation and growth analysis
-- Designed and deployed **RESTful APIs** for scalable analytics access  
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Flask, REST APIs
+### 🔹 Startup Hub
+**AI-Powered Startup Intelligence Platform**
+- Predictive analytics & ML-driven insights
+- Scalable REST APIs  
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Flask
+
+### 🔹 LearnFlow *(Ongoing)*
+**Adaptive AI Learning Platform**
+- Personalized learning recommendations
+- Analytics dashboards
+- Face recognition via CV  
+**Tech:** Python, OpenCV, CvZone, Streamlit
 
 ---
 
-### 🔸 LearnFlow – Adaptive AI Learning Platform (2025 – Present)
-- Developing an adaptive AI-driven learning and recommendation system
-- Implemented analytics dashboards to track learner performance and engagement
-- Built computer vision modules for face detection and recognition  
-**Tech Stack:** Python, OpenCV, CvZone, Scikit-learn, Streamlit, REST APIs
+## 📈 GitHub by the Numbers
 
----
-
-## 📜 Certifications
-
-- ISRO IIRS – Application of AI/ML Models for Crop Acreage Mapping
-- Generative AI Certification – Google Cloud (2024–2025)
-- Oracle Cloud Infrastructure 2025 – AI Foundations Associate
-- Google Career Launchpad Program – Data Analytics (2026)
-- AI Azure Virtual Internship – Microsoft & Edunet Foundation (AICTE)
-- Google Cloud Computing Certification (2023–2024)
-- NPTEL – Employability Communication (2025)
-- NPTEL – Developing Soft Skills & Personality (2024)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinkhandal001&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkhandal001&theme=react" />
+</p>
 
 ---
 
@@ -127,13 +98,10 @@ I am actively looking for **AI/ML internships or entry-level roles** to build **
 
 <p align="center">
   <a href="mailto:khandaljatin2187@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-ff4136?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jatinkhandal001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jatinkhandal001">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://peerlist.io/jatinkhandal001">
     <img src="https://img.shields.io/badge/Peerlist-121212?style=for-the-badge&logo=peerlist&logoColor=white"/>
@@ -142,5 +110,6 @@ I am actively looking for **AI/ML internships or entry-level roles** to build **
 
 ---
 
-📌 **Availability:** Full-time Internship (10–12 weeks) – **Summer 2026**  
-🌍 **Languages:** English (Fluent), Hindi (Native)
+<p align="center">
+  <b>✨ “Building intelligent systems that solve real problems.” ✨</b>
+</p>
