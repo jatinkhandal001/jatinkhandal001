@@ -1,13 +1,25 @@
+<h1 align="center">Jatin Khandal</h1>
+
+<h3 align="center">
+AI & Data Science Undergraduate | Machine Learning & Computer Vision Developer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Jatin+Khandal;AI+%26+Data+Science+Engineer+in+Progress;Machine+Learning+%7C+Computer+Vision;Turning+Data+into+Intelligent+Systems" />
+  <a href="mailto:khandaljatin2187@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jatinkhandal001/">LinkedIn</a> •
+  <a href="https://peerlist.io/jatinkhandal001">Peerlist</a> •
+  <a href="https://jatinkhandal.netlify.app/">Portfolio</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-informational?style=flat&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer-Vision-blueviolet">
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20GCP-blue">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-success">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-success" />
+  <img src="https://img.shields.io/badge/Computer-Vision-blueviolet" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20GCP-blue" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen" />
 </p>
+
+<hr/>
+
 
 ---
 
